@@ -1,0 +1,37 @@
+{
+  "name": "suntinventore",
+  "version": "1.0.0",
+  "description": "A typescript functional programming library",
+  "main": "dist/src/index.js",
+  "typings": "dist/src/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LiaFlatley/suntinventore.git"
+  },
+  "dependencies": {
+    "hamt_plus": "1.0.2"
+  },
+  "devDependencies": {
+    "@types/mocha": "2.2.41",
+    "mocha": "3.4.2",
+    "typedoc": "0.7.2",
+    "benchmark": "2.1.4",
+    "typescript": "2.5.3",
+    "browserify": "14.4.0",
+    "uglify-js": "3.1.2",
+    "immutable": "4.0.0-rc.9",
+    "hamt": "2.2.2",
+    "mocha-testcheck": "1.0.0-rc.0"
+  },
+  "keywords": [
+    "et",
+    "functional-programming",
+    "immutable",
+    "collections"
+  ],
+  "author": "LilianaToy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiaFlatley/suntinventore.git/issues"
+  }
+}
